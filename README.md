@@ -19,9 +19,9 @@ Click the link below to see the live version of the website:
 
 ------------------
 
-## 📁 Folder Structure
-my-first-website/
-├── index.html # Main webpage
-├── style.css # CSS for styling
-├── script.js # JavaScript for interactivity
-└── README.md # Project info (this file)
+## 📁 Folder Structure <br>
+my-first-website/ <br>
+├── index.html # Main webpage <br>
+├── style.css # CSS for styling <br>
+├── script.js # JavaScript for interactivity <br>
+└── README.md # Project info (this file) <br>
